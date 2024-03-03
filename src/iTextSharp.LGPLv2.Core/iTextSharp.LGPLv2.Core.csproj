@@ -27,7 +27,7 @@
         <AnalysisLevel>latest-all</AnalysisLevel>
         <Features>strict</Features>
         <Deterministic>true</Deterministic>
-        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
     <ItemGroup>
